@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.mcstats.canary</groupId>
+  <artifactId>metrics-lite</artifactId>
+  <version>R8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20141201.234433</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20141201234433</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>R8-20141201.234433-1</value>
+        <updated>20141201234433</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>R8-20141201.234433-1</value>
+        <updated>20141201234433</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

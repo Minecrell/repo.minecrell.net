@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.minecrell</groupId>
+  <artifactId>statusprotocol</artifactId>
+  <version>0.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160515.092618</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160515092618</lastUpdated>
+  </versioning>
+</metadata>

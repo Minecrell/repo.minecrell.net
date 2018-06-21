@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.minecrell</groupId>
+  <artifactId>VanillaGradle</artifactId>
+  <version>4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20151028.151750</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20151028151750</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.minecrell.mcstats</groupId>
+  <artifactId>statslite-sponge</artifactId>
+  <version>0.2.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160207.145034</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160207145034</lastUpdated>
+  </versioning>
+</metadata>

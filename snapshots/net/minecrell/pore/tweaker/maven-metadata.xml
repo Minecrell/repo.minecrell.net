@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.minecrell.pore</groupId>
+  <artifactId>tweaker</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150519194631</lastUpdated>
+  </versioning>
+</metadata>
